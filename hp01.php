@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>Harry Porlotes y La Red Neuronal</title>
+  <title>Harry Porlotes y La Red Neuronal - Prueba</title>
  </head>
  <body>
 <?php echo '<h1>Harry Porlotes y La Red Neuronal</h1>';?>
