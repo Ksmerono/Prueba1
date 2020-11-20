@@ -1,5 +1,9 @@
 # Prueba1
-## Aqui encontrareis comandos de como funciona git
+Esto es un trabajo realizado por Kevin Alan Sanchez Meroño, para la asignatura Acceso a datos de DAM
+---
+
+## Aqui encontrareis los comandos utlizados para el ejercicio
+
 -CONFIGURAR GIT:
 ~~~
 git config --global user.email correoelectronico
